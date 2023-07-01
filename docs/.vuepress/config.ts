@@ -13,5 +13,6 @@ export default defineUserConfig({
     // logo: '/images/hero.png',
     repo: "paladin1013/genius-invokation-rule-set",
     sidebar,
+    docsDir: "docs",
   }),
 });
