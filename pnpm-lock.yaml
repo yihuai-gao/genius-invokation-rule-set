@@ -11,7 +11,13 @@ devDependencies:
   '@vuepress/client':
     specifier: 2.0.0-beta.63
     version: 2.0.0-beta.63
+  '@vuepress/plugin-register-components':
+    specifier: 2.0.0-beta.63
+    version: 2.0.0-beta.63
   '@vuepress/theme-default':
+    specifier: 2.0.0-beta.63
+    version: 2.0.0-beta.63
+  '@vuepress/utils':
     specifier: 2.0.0-beta.63
     version: 2.0.0-beta.63
   vue:
@@ -677,6 +683,16 @@ packages:
     dependencies:
       '@vuepress/core': 2.0.0-beta.63
       prismjs: 1.29.0
+    transitivePeerDependencies:
+      - supports-color
+    dev: true
+
+  /@vuepress/plugin-register-components@2.0.0-beta.63:
+    resolution: {integrity: sha512-u8PiRwnKa5sCJwEugcccP9053Ub+jv7vox7QU1kPPLXwOAmY1ycbknbHRk/LS9szFD0fYEitGqrf7JJcZwrz+w==}
+    dependencies:
+      '@vuepress/core': 2.0.0-beta.63
+      '@vuepress/utils': 2.0.0-beta.63
+      chokidar: 3.5.3
     transitivePeerDependencies:
       - supports-color
     dev: true
