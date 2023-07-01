@@ -11,6 +11,7 @@ export const sidebar: SidebarConfig = [
       "/rule-set/game-area.md",
       "/rule-set/elemental-reactions.md",
       "/rule-set/other-rules.md",
+      "/rule-set/special-entry.md",
     ],
   },
 ];
