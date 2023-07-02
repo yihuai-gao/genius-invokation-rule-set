@@ -1,7 +1,12 @@
 import { defineUserConfig } from "@vuepress/cli";
 import { defaultTheme } from "@vuepress/theme-default";
+import { getDirname, path } from '@vuepress/utils'
+import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
 
 import { sidebar } from "./configs/sidebar.js";
+import { navbar } from "./configs/navbar.js";
+
+const __dirname = getDirname(import.meta.url)
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -13,6 +18,12 @@ export default defineUserConfig({
     // logo: '/images/hero.png',
     repo: "paladin1013/genius-invokation-rule-set",
     sidebar,
+    navbar,
     docsDir: "docs",
   }),
+  plugins: [
+    registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components'),
+    }),
+  ]
 });
