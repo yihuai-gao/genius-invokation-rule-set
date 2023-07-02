@@ -1,14 +1,16 @@
 <script lang="ts" setup>
 import Description from "./Description.vue";
+import { toDiceTypeClass } from "./utils";
 
 const props = defineProps<{
   data: any;
+  noImage?: boolean;
 }>();
 </script>
 
 <template>
   <div class="info-box">
-    <div v-if="data.image" class="info-box-image">
+    <div v-if="!noImage && data.image" class="info-box-image">
       <img
         :src="`https://api.ambr.top/assets/UI/gcg/${data.image.filename_cardface}.png`"
       />
@@ -20,6 +22,15 @@ const props = defineProps<{
         <ul class="badge-group">
           <li v-for="t of data.tagstext ?? []" class="badge badge-ghost">{{ t }}</li>
         </ul>
+      <span>
+        <span
+          v-for="dice of data.playcost"
+          class="cost"
+          :class="toDiceTypeClass(dice.costtype)"
+        >
+          {{ dice.count }}
+        </span>
+      </span>
         <p class="text-xs">ID: {{ data.id }}</p>
       </div>
       <Description :text="data.descriptionraw"></Description>

@@ -1,9 +1,11 @@
 <script lang="ts" setup>
 import Description from "./Description.vue";
+import { toDiceTypeClass } from "./utils";
 
 const props = defineProps<{
   data: any;
 }>();
+
 </script>
 
 <template>
@@ -13,6 +15,15 @@ const props = defineProps<{
         {{ data.type }}
       </span>
       <span class="info-title-text">{{ data.name }}</span>
+      <span>
+        <span
+          v-for="dice of data.playcost"
+          class="cost"
+          :class="toDiceTypeClass(dice.costtype)"
+        >
+          {{ dice.count }}
+        </span>
+      </span>
       <p class="text-xs">ID: {{ data.id }}</p>
     </div>
     <Description

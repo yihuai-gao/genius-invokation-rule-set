@@ -5,11 +5,15 @@
       class="input"
       placeholder="键入以检索"
       v-model="searchText"
+      @input="showMore = false"
     />
     <div v-for="d of shownData">
       <CharacterInfo v-if="d.skills" :data="d"></CharacterInfo>
       <ItemInfo v-else :data="d"></ItemInfo>
     </div>
+    <button v-if="searchText && !showMore" class="btn" @click="showMore = true">
+      加载更多
+    </button>
     <div v-if="shownData.length === 0 && searchText">
       <hr class="mt-3" />
       <p>没有找到相关数据</p>
@@ -24,15 +28,20 @@ import CharacterInfo from "./CharacterInfo.vue";
 import ItemInfo from "./ItemInfo.vue";
 import { data as originalData, loaded } from "./data";
 
-const data = ref();
+const data = ref<any[]>();
 const searchText = ref("");
+const showMore = ref(false);
 const shownData = computed(() => {
   if (!searchText.value) return [];
-  return data.value.filter((item) => {
+  const partA = data.value.filter((item) => {
     return item.name.includes(searchText.value);
   });
+  if (!showMore.value) return partA;
+  const partB = data.value.filter((item) => {
+    return !item.name.includes(searchText.value) && item.description?.includes(searchText.value);
+  });
+  return [...partA, ...partB];
 });
-
 onMounted(async () => {
   await loaded;
   data.value = [];
@@ -46,13 +55,6 @@ onMounted(async () => {
 </script>
 
 <style>
-:root {
-  --c-brand: #3eaf7c;
-  --c-bg: #ffffff;
-  --c-text: #2c3e50;
-  --border-color: #e5e7eb;
-}
-
 *,
 :before,
 :after {
@@ -73,7 +75,7 @@ onMounted(async () => {
   line-height: 1.5rem;
   border-width: 1px;
   border-radius: 0.5rem;
-  border-color: var(--border-color);
+  border-color: var(--c-border);
   width: 100%;
 }
 
@@ -81,21 +83,31 @@ onMounted(async () => {
   outline-style: solid;
   outline-width: 2px;
   outline-offset: 2px;
-  outline-color: var(--border-color);
+  outline-color: var(--c-border);
+}
+
+.btn {
+  width: 100%;
+  font-size: 1em;
+  padding: 5px;
+  border-radius: 0.5rem;
+  margin-top: 0.5rem;
+  user-select: none;
+  cursor: pointer;
 }
 
 .info-box {
   display: flex;
   margin-top: 0.75rem;
   border-radius: 1rem;
-  border: solid 1px var(--border-color);
+  border: solid 1px var(--c-border);
 }
 
 .info-box-skill {
   margin-top: 0.75rem;
   border-radius: 0.75rem;
   padding: 0.5rem 1rem;
-  border: solid 1px var(--border-color);
+  border: solid 1px var(--c-border);
 }
 
 .info-box-image {
@@ -182,8 +194,8 @@ onMounted(async () => {
 }
 
 .badge-ghost {
-  border-color: var(--border-color);
-  background-color: var(--border-color);
+  border-color: var(--c-border);
+  background-color: var(--c-border);
 }
 
 .popup {

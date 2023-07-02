@@ -37,6 +37,9 @@ onMounted(async () => {
     data.value ??= Object.values<any>(allData.tcgsummons).find(
       (c) => c.id === props.id
     );
+    data.value ??= Object.values<any>(allData.tcgactioncards).find(
+      (c) => c.id === props.id
+    );
     title.value = data.value.name;
   } else if (props.type === "A") {
     data.value = Object.values<any>(allData.tcgcharactercards).find(
