@@ -1,0 +1,2672 @@
+{
+  "tcgcharactercards": {
+    "ganyu": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_Bow",
+        "UI_Gcg_Tag_Faction_Liyue"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Ganyu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Ganyu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ganyu_HD"
+    },
+    "diona": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_Bow",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Diona",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Diona_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Diona_HD"
+    },
+    "kaeya": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_Sword",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Kaeya",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Kaeya_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Kaeya_HD"
+    },
+    "chongyun": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_Claymore",
+        "UI_Gcg_Tag_Faction_Liyue"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Chongyun",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Chongyun_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Chongyun_HD"
+    },
+    "kamisatoayaka": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_Sword",
+        "UI_Gcg_Tag_Faction_Inazuma"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Ayaka",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Ayaka_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ayaka_HD"
+    },
+    "barbara": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_Catalyst",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Barbara",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Barbara_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Barbara_HD"
+    },
+    "xingqiu": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_Sword",
+        "UI_Gcg_Tag_Faction_Liyue"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Xingqiu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Xingqiu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Xingqiu_HD"
+    },
+    "mona": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_Catalyst",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Mona",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Mona_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Mona_HD"
+    },
+    "diluc": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_Claymore",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Diluc",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Diluc_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Diluc_HD"
+    },
+    "xiangling": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_Polearm",
+        "UI_Gcg_Tag_Faction_Liyue"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Xiangling",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Xiangling_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Xiangling_HD"
+    },
+    "bennett": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_Sword",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Bennett",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Bennett_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Bennett_HD"
+    },
+    "yoimiya": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_Bow",
+        "UI_Gcg_Tag_Faction_Inazuma"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Yoimiya",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Yoimiya_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Yoimiya_HD"
+    },
+    "fischl": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_Bow",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Fischl",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Fischl_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Fischl_HD"
+    },
+    "razor": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_Claymore",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Razor",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Razor_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Razor_HD"
+    },
+    "keqing": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_Sword",
+        "UI_Gcg_Tag_Faction_Liyue"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Keqing",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Keqing_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Keqing_HD"
+    },
+    "cyno": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_Polearm",
+        "UI_Gcg_Tag_Faction_Sumeru"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Cyno",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Cyno_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Cyno_HD"
+    },
+    "sucrose": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Wind",
+        "UI_Gcg_Tag_Weapon_Catalyst",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Sucrose",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Sucrose_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Sucrose_HD"
+    },
+    "jean": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Wind",
+        "UI_Gcg_Tag_Weapon_Sword",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Qin",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Qin_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Qin_HD"
+    },
+    "ningguang": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_Catalyst",
+        "UI_Gcg_Tag_Faction_Liyue"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Ningguang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Ningguang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ningguang_HD"
+    },
+    "noelle": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_Claymore",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Noel",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Noel_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Noel_HD"
+    },
+    "collei": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Grass",
+        "UI_Gcg_Tag_Weapon_Bow",
+        "UI_Gcg_Tag_Faction_Sumeru"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Collei",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Collei_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Collei_HD"
+    },
+    "rhodeiaofloch": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Oceanid",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Oceanid_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Oceanid_HD"
+    },
+    "mirrormaiden": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Maidenwater",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Maidenwater_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Maidenwater_HD"
+    },
+    "fatuipyroagent": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Fatuus",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Fatuus_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Fatuus_HD"
+    },
+    "maguukenki": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Wind",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Ningyo",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Ningyo_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Ningyo_HD"
+    },
+    "stonehidelawachurl": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Bruterock",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Bruterock_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Bruterock_HD"
+    },
+    "jadeplumeterrorshroom": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Grass",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Fungusgrass",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_HD"
+    },
+    "klee": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_Catalyst",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Klee",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Klee_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Klee_HD"
+    },
+    "beidou": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_Claymore",
+        "UI_Gcg_Tag_Faction_Liyue"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Beidou",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Beidou_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Beidou_HD"
+    },
+    "eula": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_Claymore",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Eula",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Eula_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Eula_HD"
+    },
+    "sangonomiyakokomi": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_Catalyst",
+        "UI_Gcg_Tag_Faction_Inazuma"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Kokomi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Kokomi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Kokomi_HD"
+    },
+    "kujousara": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_Bow",
+        "UI_Gcg_Tag_Faction_Inazuma"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Sara",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Sara_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Sara_HD"
+    },
+    "kamisatoayato": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_Sword",
+        "UI_Gcg_Tag_Faction_Inazuma"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Ayato",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Ayato_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ayato_HD"
+    },
+    "aratakiitto": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_Claymore",
+        "UI_Gcg_Tag_Faction_Inazuma"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Itto",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Itto_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Itto_HD"
+    },
+    "tighnari": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Grass",
+        "UI_Gcg_Tag_Weapon_Bow",
+        "UI_Gcg_Tag_Faction_Sumeru"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Tighnari",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Tighnari_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Tighnari_HD"
+    },
+    "shenhe": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_Polearm",
+        "UI_Gcg_Tag_Faction_Liyue"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Shenhe",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Shenhe_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Shenhe_HD"
+    },
+    "tartaglia": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_Bow",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Tartaglia",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Tartaglia_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Tartaglia_HD"
+    },
+    "amber": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_Bow",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Ambor",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Ambor_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ambor_HD"
+    },
+    "hutao": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_Polearm",
+        "UI_Gcg_Tag_Faction_Liyue"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Hutao",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Hutao_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Hutao_HD"
+    },
+    "raidenshogun": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_Polearm",
+        "UI_Gcg_Tag_Faction_Inazuma"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Shougun",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Shougun_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Shougun_HD"
+    },
+    "yaemiko": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_Catalyst",
+        "UI_Gcg_Tag_Faction_Inazuma"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Yae",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Yae_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Yae_HD"
+    },
+    "venti": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Wind",
+        "UI_Gcg_Tag_Weapon_Bow",
+        "UI_Gcg_Tag_Faction_Mondstadt"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Venti",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Venti_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Venti_HD"
+    },
+    "xiao": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Wind",
+        "UI_Gcg_Tag_Weapon_Polearm",
+        "UI_Gcg_Tag_Faction_Liyue"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Xiao",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Xiao_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Xiao_HD"
+    },
+    "zhongli": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_Polearm",
+        "UI_Gcg_Tag_Faction_Liyue"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Zhongli",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Zhongli_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Zhongli_HD"
+    },
+    "nahida": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Grass",
+        "UI_Gcg_Tag_Weapon_Catalyst",
+        "UI_Gcg_Tag_Faction_Sumeru"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Nahida",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Nahida_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Nahida_HD"
+    },
+    "fatuicryocicinmage": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_FatuusMageice",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_FatuusMageice_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_FatuusMageice_HD"
+    },
+    "abysslectorfathomlessflames": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_DeaconFire",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_DeaconFire_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_DeaconFire_HD"
+    },
+    "electrohypostasis": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Effigyelectric",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Effigyelectric_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Effigyelectric_HD"
+    }
+  },
+  "tcgactioncards": {
+    "undividedheart": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Ganyu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Ganyu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Ganyu_HD"
+    },
+    "shakennotpurred": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Diona",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Diona_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Diona_HD"
+    },
+    "coldbloodedstrike": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Keaya",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Keaya_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Keaya_HD"
+    },
+    "steadybreathing": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Chongyun",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Chongyun_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Chongyun_HD"
+    },
+    "kantensenmyoublessing": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Ayaka",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Ayaka_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Ayaka_HD"
+    },
+    "gloriousseason": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Barbara",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Barbara_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Barbara_HD"
+    },
+    "thescentremained": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Xingqiu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Xingqiu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Xingqiu_HD"
+    },
+    "prophecyofsubmersion": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Mona",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Mona_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Mona_HD"
+    },
+    "flowingflame": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Diluc",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Diluc_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Diluc_HD"
+    },
+    "crossfire": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Xiangling",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Xiangling_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Xiangling_HD"
+    },
+    "grandexpectation": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Bennett",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Bennett_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Bennett_HD"
+    },
+    "naganoharameteorswarm": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Yoyimiya",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Yoyimiya_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Yoyimiya_HD"
+    },
+    "stellarpredator": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Fischl",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Fischl_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Fischl_HD"
+    },
+    "awakening": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Razor",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Razor_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Razor_HD"
+    },
+    "lightningstiletto": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Keqing",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Keqing_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Keqing_HD"
+    },
+    "thunderingpenance": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Keqing",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Keqing_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Keqing_HD"
+    },
+    "featherfalljudgment": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Cyno",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Cyno_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Cyno_HD"
+    },
+    "chaoticentropy": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Sucrose",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Sucrose_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Sucrose_HD"
+    },
+    "landsofdandelion": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Qin",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Qin_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Qin_HD"
+    },
+    "strategicreserve": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Ningguang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Ningguang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Ningguang_HD"
+    },
+    "igotyourback": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Noel",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Noel_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Noel_HD"
+    },
+    "floralsidewinder": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Collei",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Collei_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Collei_HD"
+    },
+    "streamingsurge": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Chunshui",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Chunshui_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Chunshui_HD"
+    },
+    "mirrorcage": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Maidenwater",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Maidenwater_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Maidenwater_HD"
+    },
+    "paidinfull": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_FatuiPyroAgent",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_FatuiPyroAgent_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_FatuiPyroAgent_HD"
+    },
+    "transcendentautomaton": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Ningyo",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Ningyo_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Ningyo_HD"
+    },
+    "stonehidereforged": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Rockbrute",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Rockbrute_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Rockbrute_HD"
+    },
+    "proliferatingspores": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Fungusgrass",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Fungusgrass_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Fungusgrass_HD"
+    },
+    "magicguide": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Catalyst"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_CatalystIntro",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_CatalystIntro_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_CatalystIntro_HD"
+    },
+    "sacrificialfragments": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Catalyst"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_CatalystFossil",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_CatalystFossil_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_CatalystFossil_HD"
+    },
+    "skywardatlas": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Catalyst"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_CatalystDvalin",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_CatalystDvalin_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_CatalystDvalin_HD"
+    },
+    "ravenbow": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Bow"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_BowCrowfeather",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_BowCrowfeather_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_BowCrowfeather_HD"
+    },
+    "sacrificialbow": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Bow"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_BowFossil",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_BowFossil_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_BowFossil_HD"
+    },
+    "skywardharp": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Bow"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_BowDvalin",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_BowDvalin_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_BowDvalin_HD"
+    },
+    "whiteirongreatsword": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Claymore"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreTin",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreTin_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreTin_HD"
+    },
+    "sacrificialgreatsword": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Claymore"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_Fossil",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_Fossil_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_Fossil_HD"
+    },
+    "wolfsgravestone": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Claymore"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreWolfmound",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreWolfmound_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreWolfmound_HD"
+    },
+    "whitetassel": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Polearm"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_PoleRuby",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_PoleRuby_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_PoleRuby_HD"
+    },
+    "lithicspear": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Polearm"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_PoleLapis",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_PoleLapis_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_PoleLapis_HD"
+    },
+    "skywardspine": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Polearm"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_PoleDvalin",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_PoleDvalin_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_PoleDvalin_HD"
+    },
+    "travelershandysword": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Sword"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_SwordDarker",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_SwordDarker_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_SwordDarker_HD"
+    },
+    "sacrificialsword": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Sword"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_SwordFossil",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_SwordFossil_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_SwordFossil_HD"
+    },
+    "aquilafavonia": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Sword"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_SwordFalcon",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_SwordFalcon_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_SwordFalcon_HD"
+    },
+    "adventurersbandana": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_MaoxianjiaDanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_MaoxianjiaDanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_MaoxianjiaDanjian_HD"
+    },
+    "luckydogssilvercirclet": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_XingyunerDanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_XingyunerDanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_XingyunerDanjian_HD"
+    },
+    "travelingdoctorshandkerchief": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_YouyiDanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_YouyiDanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_YouyiDanjian_HD"
+    },
+    "gamblersearrings": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_DutuDanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_DutuDanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_DutuDanjian_HD"
+    },
+    "instructorscap": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_JiaoguanDanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_JiaoguanDanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_JiaoguanDanjian_HD"
+    },
+    "exilescirclet": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_LiufangzheDanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_LiufangzheDanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_LiufangzheDanjian_HD"
+    },
+    "brokenrimesecho": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_BinDanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_BinDanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_BinDanjian_HD"
+    },
+    "blizzardstrayer": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_BinTaozhuang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_BinTaozhuang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_BinTaozhuang_HD"
+    },
+    "winestainedtricorne": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_Shuidanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_Shuidanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_Shuidanjian_HD"
+    },
+    "heartofdepth": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_Shuitaozhuang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_Shuitaozhuang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_Shuitaozhuang_HD"
+    },
+    "witchsscorchinghat": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_Monvdanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_Monvdanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_Monvdanjian_HD"
+    },
+    "crimsonwitchofflames": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_Monvtaozhuang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_Monvtaozhuang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_Monvtaozhuang_HD"
+    },
+    "thundersummonerscrown": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_Leidanjia",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_Leidanjia_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_Leidanjia_HD"
+    },
+    "thunderingfury": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_Leitaozhuang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_Leitaozhuang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_Leitaozhuang_HD"
+    },
+    "viridescentvenerersdiadem": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_FengDanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_FengDanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_FengDanjian_HD"
+    },
+    "viridescentvenerer": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_FengTaozhuang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_FengTaozhuang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_FengTaozhuang_HD"
+    },
+    "maskofsolitudebasalt": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_YanDanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_YanDanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_YanDanjian_HD"
+    },
+    "archaicpetra": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_YanTaozhuang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_YanTaozhuang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_YanTaozhuang_HD"
+    },
+    "laurelcoronet": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_CaoDanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_CaoDanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_CaoDanjian_HD"
+    },
+    "deepwoodmemories": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_CaoTaozhuang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_CaoTaozhuang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_CaoTaozhuang_HD"
+    },
+    "liyueharborwharf": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Location"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_LiyueHarbor",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_LiyueHarbor_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_LiyueHarbor_HD"
+    },
+    "knightsoffavoniuslibrary": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Location"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_MdLibrary",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_MdLibrary_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_MdLibrary_HD"
+    },
+    "jadechamber": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Location"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Qunyuge",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Qunyuge_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Qunyuge_HD"
+    },
+    "dawnwinery": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Location"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Chenxijiuzhuang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Chenxijiuzhuang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Chenxijiuzhuang_HD"
+    },
+    "wangshuinn": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Location"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Wangshukezhan",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Wangshukezhan_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Wangshukezhan_HD"
+    },
+    "favoniuscathedral": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Location"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_FavoniusChurch",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_FavoniusChurch_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_FavoniusChurch_HD"
+    },
+    "paimon": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Paimon",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Paimon_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Paimon_HD"
+    },
+    "katheryne": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Katheryne",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Katheryne_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Katheryne_HD"
+    },
+    "timaeus": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Timaeus",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Timaeus_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Timaeus_HD"
+    },
+    "wagner": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Wagner",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Wagner_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Wagner_HD"
+    },
+    "chefmao": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Maoshifu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Maoshifu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Maoshifu_HD"
+    },
+    "tubby": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_AYuan",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_AYuan_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_AYuan_HD"
+    },
+    "timmie": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Timmy",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Timmy_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Timmy_HD"
+    },
+    "liben": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_LiBen",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_LiBen_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_LiBen_HD"
+    },
+    "changtheninth": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Changjiuye",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Changjiuye_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Changjiuye_HD"
+    },
+    "ellin": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Aileen",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Aileen_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Aileen_HD"
+    },
+    "irontonguetian": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Tiantiezui",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Tiantiezui_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Tiantiezui_HD"
+    },
+    "liusu": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Liusu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Liusu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Liusu_HD"
+    },
+    "parametrictransformer": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Item"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Prop_ParametricTransformer",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Prop_ParametricTransformer_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Prop_ParametricTransformer_HD"
+    },
+    "nre": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Item"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Prop_NREMenu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Prop_NREMenu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Prop_NREMenu_HD"
+    },
+    "elementalresonancewovenice": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceB_Ice",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceB_Ice_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceB_Ice_HD"
+    },
+    "elementalresonanceshatteringice": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceA_Ice",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceA_Ice_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceA_Ice_HD"
+    },
+    "elementalresonancewovenwaters": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceB_Water",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceB_Water_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceB_Water_HD"
+    },
+    "elementalresonancesoothingwater": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceA_Water",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceA_Water_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceA_Water_HD"
+    },
+    "elementalresonancewovenflames": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceB_Fire",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceB_Fire_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceB_Fire_HD"
+    },
+    "elementalresonanceferventflames": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceA_Fire",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceA_Fire_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceA_Fire_HD"
+    },
+    "elementalresonancewoventhunder": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceB_Electric",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceB_Electric_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceB_Electric_HD"
+    },
+    "elementalresonancehighvoltage": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceA_Electric",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceA_Electric_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceA_Electric_HD"
+    },
+    "elementalresonancewovenwinds": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceB_Wind",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceB_Wind_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceB_Wind_HD"
+    },
+    "elementalresonanceimpetuouswinds": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceA_Wind",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceA_Wind_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceA_Wind_HD"
+    },
+    "elementalresonancewovenstone": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceB_Rock",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceB_Rock_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceB_Rock_HD"
+    },
+    "elementalresonanceenduringrock": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceA_Rock",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceA_Rock_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceA_Rock_HD"
+    },
+    "elementalresonancewovenweeds": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceB_Grass",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceB_Grass_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceB_Grass_HD"
+    },
+    "elementalresonancesprawlinggreenery": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Sync"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_ResonanceA_Grass",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_ResonanceA_Grass_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_ResonanceA_Grass_HD"
+    },
+    "thebestesttravelcompanion": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_BestAibo",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_BestAibo_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_BestAibo_HD"
+    },
+    "changingshifts": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Huanbanshijian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Huanbanshijian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Huanbanshijian_HD"
+    },
+    "tossup": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Yizhiqiankun",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Yizhiqiankun_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Yizhiqiankun_HD"
+    },
+    "strategize": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Yunchouweiwo",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Yunchouweiwo_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Yunchouweiwo_HD"
+    },
+    "ihaventlostyet": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Bendayehaimeiyoushu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Bendayehaimeiyoushu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Bendayehaimeiyoushu_HD"
+    },
+    "leaveittome": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Jiaogeiwoba",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Jiaogeiwoba_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Jiaogeiwoba_HD"
+    },
+    "whenthecranereturned": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Heguizhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Heguizhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Heguizhishi_HD"
+    },
+    "starsigns": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Xingtian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Xingtian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Xingtian_HD"
+    },
+    "calxsarts": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Baiezhishu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Baiezhishu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Baiezhishu_HD"
+    },
+    "masterofweaponry": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Zhuwujingtong",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Zhuwujingtong_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Zhuwujingtong_HD"
+    },
+    "blessingofthedivinerelicsinstallation": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Shenbaoqiangongzhuci",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Shenbaoqiangongzhuci_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Shenbaoqiangongzhuci_HD"
+    },
+    "quickknit": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Kuaikuaifengbushu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Kuaikuaifengbushu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Kuaikuaifengbushu_HD"
+    },
+    "sendoff": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Songniyicheng",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Songniyicheng_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Songniyicheng_HD"
+    },
+    "guardiansoath": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Hufazhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Hufazhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Hufazhishi_HD"
+    },
+    "abyssalsummons": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Abyssdehuhuan",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Abyssdehuhuan_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Abyssdehuhuan_HD"
+    },
+    "jueyunguoba": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Food"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Food_Jueyunguoba",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Food_Jueyunguoba_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Food_Jueyunguoba_HD"
+    },
+    "adeptustemptation": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Food"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Food_XTQ",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Food_XTQ_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Food_XTQ_HD"
+    },
+    "lotusflowercrisp": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Food"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Food_Lianhuasu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Food_Lianhuasu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Food_Lianhuasu_HD"
+    },
+    "northernsmokedchicken": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Food"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Food_Beidiyanxunji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Food_Beidiyanxunji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Food_Beidiyanxunji_HD"
+    },
+    "sweetmadame": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Food"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Food_Huaniangji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Food_Huaniangji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Food_Huaniangji_HD"
+    },
+    "mondstadthashbrown": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Food"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Food_Tudoubin",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Food_Tudoubin_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Food_Tudoubin_HD"
+    },
+    "mushroompizza": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Food"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Food_Kaomogupisa",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Food_Kaomogupisa_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Food_Kaomogupisa_HD"
+    },
+    "mintymeatrolls": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Food"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Food_Bohejuan",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Food_Bohejuan_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Food_Bohejuan_HD"
+    },
+    "poundingsurprise": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Klee",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Klee_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Klee_HD"
+    },
+    "lightningstorm": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Beidou",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Beidou_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Beidou_HD"
+    },
+    "leylinedisorderdrivingrain": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_HD"
+    },
+    "leylinedisordersmolderingflames": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_HD"
+    },
+    "leylinedisorderwet": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_HD"
+    },
+    "leylinedisorderengulfingstorm": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_HD"
+    },
+    "leylinedisorderswiftwind": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_HD"
+    },
+    "leylinedisorderfreezingice": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_HD"
+    },
+    "leylinedisorderovergrowth": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_HD"
+    },
+    "leylinedisorderhightemperature": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_HD"
+    },
+    "leylinedisorderthunderstorm": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_HD"
+    },
+    "hilichurlarrowtower": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_HillTower",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_HillTower_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_HillTower_HD"
+    },
+    "mutationstone": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "giantmutationstone": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinedisorderfightorflight": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinedisorderdireechoes": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinedisorderaegisoftheabyss": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "witheringcorrosion": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "elementalorb": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "elementalorbplentiful": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "elementalorbdissipated": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "elementalorbenduring": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "wellspringofwarlust": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Eula",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Eula_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Eula_HD"
+    },
+    "tamanooyascasket": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Kokomi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Kokomi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Kokomi_HD"
+    },
+    "sinofpride": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Sara",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Sara_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Sara_HD"
+    },
+    "ornatekabuto": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_Huashi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_Huashi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_Huashi_HD"
+    },
+    "generalsancienthelm": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_Jiangshuai",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_Jiangshuai_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_Jiangshuai_HD"
+    },
+    "kyoukafuushi": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Ayato",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Ayato_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Ayato_HD"
+    },
+    "aratakiichiban": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Itto",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Itto_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Itto_HD"
+    },
+    "keensight": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Tighnari",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Tighnari_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Tighnari_HD"
+    },
+    "favoniussword": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Sword"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_Xifengjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_Xifengjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_Xifengjian_HD"
+    },
+    "grandnarukamishrine": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Location"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Mingshendashe",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Mingshendashe_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Mingshendashe_HD"
+    },
+    "mysticalabandon": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Shenhe",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Shenhe_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Shenhe_HD"
+    },
+    "abyssalmayhemhydrospout": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Tartaglia",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Tartaglia_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Tartaglia_HD"
+    },
+    "tamakushicasket": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Kokomi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Kokomi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Kokomi_HD"
+    },
+    "bunnytriggered": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Ambor",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Ambor_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Ambor_HD"
+    },
+    "sanguinerouge": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Hutao",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Hutao_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Hutao_HD"
+    },
+    "wishesunnumbered": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Shougun",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Shougun_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Shougun_HD"
+    },
+    "theshrinessacredshade": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Yae",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Yae_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Yae_HD"
+    },
+    "embraceofwinds": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Venti",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Venti_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Venti_HD"
+    },
+    "conquerorofevilguardianyaksha": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Xiao",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Xiao_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Xiao_HD"
+    },
+    "dominanceofearth": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Zhongli",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Zhongli_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Zhongli_HD"
+    },
+    "theseedofstoredknowledge": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Tighnari",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Tighnari_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Tighnari_HD"
+    },
+    "cicinscoldglare": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_MageIce",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_MageIce_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_MageIce_HD"
+    },
+    "embersrekindled": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_DeaconFire",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_DeaconFire_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_DeaconFire_HD"
+    },
+    "absorbingprism": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Effigyelectric",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Effigyelectric_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Effigyelectric_HD"
+    },
+    "athousandfloatingdreams": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Catalyst"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_Ayus",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_Ayus_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_Ayus_HD"
+    },
+    "amosbow": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Bow"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_Amos",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_Amos_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_Amos_HD"
+    },
+    "elegyfortheend": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Bow"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_Widsith",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_Widsith_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_Widsith_HD"
+    },
+    "skywardpride": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Claymore"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreDvalin",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreDvalin_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_ClaymoreDvalin_HD"
+    },
+    "thebell": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Claymore"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_Troupe",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_Troupe_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_Troupe_HD"
+    },
+    "vortexvanquisher": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Polearm"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_Kunwu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_Kunwu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_Kunwu_HD"
+    },
+    "engulfinglightning": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Polearm"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_Narukami",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_Narukami_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_Narukami_HD"
+    },
+    "skywardblade": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Sword"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_SwordDvalin",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_SwordDvalin_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_SwordDvalin_HD"
+    },
+    "emblemofseveredfate": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_JueyuanTaozhuang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_JueyuanTaozhuang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_JueyuanTaozhuang_HD"
+    },
+    "tenacityofthemillelith": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_QianyanTaozhuang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_QianyanTaozhuang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_QianyanTaozhuang_HD"
+    },
+    "thunderingpoise": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_ChenshaDanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_ChenshaDanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_ChenshaDanjian_HD"
+    },
+    "vermillionhereafter": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_ChenshaTaozhuang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_ChenshaTaozhuang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_ChenshaTaozhuang_HD"
+    },
+    "capriciousvisage": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_Zhuiyidanjian",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_Zhuiyidanjian_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_Zhuiyidanjian_HD"
+    },
+    "shimenawasreminiscence": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Relic"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Artifact_ZhuiyiTaozhuang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Artifact_ZhuiyiTaozhuang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Artifact_ZhuiyiTaozhuang_HD"
+    },
+    "tenshukaku": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Location"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Tianshou",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Tianshou_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Tianshou_HD"
+    },
+    "sangonomiyashrine": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Location"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Shanhu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Shanhu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Shanhu_HD"
+    },
+    "sumerucity": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Location"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Xumi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Xumi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Xumi_HD"
+    },
+    "vanarana": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Location"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Hengna",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Hengna_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Hengna_HD"
+    },
+    "chinjuforest": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Location"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Zhengshoui",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Zhengshoui_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Zhengshoui_HD"
+    },
+    "hanachirusato": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Huasanli",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Huasanli_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Huasanli_HD"
+    },
+    "kidkujirai": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Yingjin",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Yingjin_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Yingjin_HD"
+    },
+    "xudong": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Xudong",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Xudong_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Xudong_HD"
+    },
+    "dunyarzad": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Dina",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Dina_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Dina_HD"
+    },
+    "rana": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Lana",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Lana_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Lana_HD"
+    },
+    "redfeatherfan": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Item"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Prop_Hongye",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Prop_Hongye_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Prop_Hongye_HD"
+    },
+    "treasureseekingseelie": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Item"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Prop_Xunbao",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Prop_Xunbao_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Prop_Xunbao_HD"
+    },
+    "windandfreedom": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Fengyuziyou",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Fengyuziyou_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Fengyuziyou_HD"
+    },
+    "stoneandcontracts": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Yanyuqiyue",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Yanyuqiyue_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Yanyuqiyue_HD"
+    },
+    "thunderandeternity": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Leiyuyongheng",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Leiyuyongheng_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Leiyuyongheng_HD"
+    },
+    "natureandwisdom": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Caoyuzhihui",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Caoyuzhihui_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Caoyuzhihui_HD"
+    },
+    "fatuiconspiracy": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Yurenzhongi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Yurenzhongi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Yurenzhongi_HD"
+    },
+    "plungingstrike": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Xialuo",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Xialuo_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Xialuo_HD"
+    },
+    "heavystrike": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Zhonggongji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Zhonggongji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Zhonggongji_HD"
+    },
+    "thelegendofvennessa": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Wennisha",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Wennisha_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Wennisha_HD"
+    },
+    "friendshipeternal": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Yongyuandeyouyi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Yongyuandeyouyi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Yongyuandeyouyi_HD"
+    },
+    "teyvatfriedegg": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Food"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Food_Jiandan",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Food_Jiandan_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Food_Jiandan_HD"
+    },
+    "sashimiplatter": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Food"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Food_Cishen",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Food_Cishen_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Food_Cishen_HD"
+    },
+    "tandooriroastchicken": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Food"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Food_Tangduer",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Food_Tangduer_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Food_Tangduer_HD"
+    },
+    "buttercrab": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Food"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Food_Huangyou",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Food_Huangyou_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Food_Huangyou_HD"
+    },
+    "leylinedisordersoaringwinds": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_DimaiZhenshi_HD"
+    },
+    "witheringcorrosion-01": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "witheringcorrosion-02": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinedisorderfightorflight-01": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinedisordershamaniccurse": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "masterytalismantheelementsentwined": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "leylinedisorderhonedfactor": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinedisordermechanicsofpenetration": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinedisorderslimshielding": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinedisorderlightweightdefense": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinedisorderignitedmorale": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinedisorderbelligerenceunfettered": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinedisorderblazingwill": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinedisorderstrongfeedback": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Yibianzhishi_HD"
+    },
+    "leylinemonolithfrontlinefulcrum": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismansurgingvigor": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismanpresstheattack": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismanimmovable": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismancyclecharge": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismancoldwar": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismandecisivebattle": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismanextendedexplosion": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismanpracticemakesperfect": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismanintelligenceupdate": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismandualprongedapproach": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismandensevegetation": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "zerohourinvokationalloutaggression": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    }
+  },
+  "tcgcardbacks": {
+    "origin": {
+      "filename_icon": "UI_Gcg_CardBack_01",
+      "filename_icon_HD": "UI_Gcg_CardBack_01_HD"
+    },
+    "mondstadt": {
+      "filename_icon": "UI_Gcg_CardBack_Mengde",
+      "filename_icon_HD": "UI_Gcg_CardBack_Mengde_HD"
+    },
+    "liyue": {
+      "filename_icon": "UI_Gcg_CardBack_Liyue",
+      "filename_icon_HD": "UI_Gcg_CardBack_Liyue_HD"
+    },
+    "inazuma": {
+      "filename_icon": "UI_Gcg_CardBack_Inazuma",
+      "filename_icon_HD": "UI_Gcg_CardBack_Inazuma_HD"
+    },
+    "sumeru": {
+      "filename_icon": "UI_Gcg_CardBack_Sumeru",
+      "filename_icon_HD": "UI_Gcg_CardBack_Sumeru_HD"
+    },
+    "legend": {
+      "filename_icon": "UI_Gcg_CardBack_LevelReward",
+      "filename_icon_HD": "UI_Gcg_CardBack_LevelReward_HD"
+    },
+    "adept": {
+      "filename_icon": "UI_Gcg_CardBack_HandbookReward",
+      "filename_icon_HD": "UI_Gcg_CardBack_HandbookReward_HD"
+    },
+    "hydrocrystalchunk": {
+      "filename_icon": "UI_Gcg_CardBack_CrystalChunk",
+      "filename_icon_HD": "UI_Gcg_CardBack_CrystalChunk_HD"
+    },
+    "magicalcrystalchunk": {
+      "filename_icon": "UI_Gcg_CardBack_MagicalCrystalChunk",
+      "filename_icon_HD": "UI_Gcg_CardBack_MagicalCrystalChunk_HD"
+    },
+    "amethystlump": {
+      "filename_icon": "UI_Gcg_CardBack_AmethystLump",
+      "filename_icon_HD": "UI_Gcg_CardBack_AmethystLump_HD"
+    },
+    "flamingflowerstamen": {
+      "filename_icon": "UI_Gcg_CardBack_FlamingFlowerStamen",
+      "filename_icon_HD": "UI_Gcg_CardBack_FlamingFlowerStamen_HD"
+    },
+    "mistflowercorolla": {
+      "filename_icon": "UI_Gcg_CardBack_MistFlowerCorolla",
+      "filename_icon_HD": "UI_Gcg_CardBack_MistFlowerCorolla_HD"
+    },
+    "electrocrystal": {
+      "filename_icon": "UI_Gcg_CardBack_ElectroCrystal",
+      "filename_icon_HD": "UI_Gcg_CardBack_ElectroCrystal_HD"
+    },
+    "dandelionseed": {
+      "filename_icon": "UI_Gcg_CardBack_DandelionSeed",
+      "filename_icon_HD": "UI_Gcg_CardBack_DandelionSeed_HD"
+    },
+    "cecilia": {
+      "filename_icon": "UI_Gcg_CardBack_Cecilia",
+      "filename_icon_HD": "UI_Gcg_CardBack_Cecilia_HD"
+    },
+    "glazelily": {
+      "filename_icon": "UI_Gcg_CardBack_GlazeLily",
+      "filename_icon_HD": "UI_Gcg_CardBack_GlazeLily_HD"
+    },
+    "dendrobium": {
+      "filename_icon": "UI_Gcg_CardBack_Dendrobium",
+      "filename_icon_HD": "UI_Gcg_CardBack_Dendrobium_HD"
+    },
+    "crystalchunk": {
+      "filename_icon": "UI_Gcg_CardBack_CrystalChunk",
+      "filename_icon_HD": "UI_Gcg_CardBack_CrystalChunk_HD"
+    },
+    "lazuriteswirl": {
+      "filename_icon": "UI_Gcg_CardBack_Dvalin",
+      "filename_icon_HD": "UI_Gcg_CardBack_Dvalin_HD"
+    },
+    "treasuresofthedeck": {
+      "filename_icon": "UI_Gcg_CardBack_Thoarder",
+      "filename_icon_HD": "UI_Gcg_CardBack_Thoarder_HD"
+    }
+  },
+  "tcgcardboxes": {
+    "mondstadt": {
+      "filename_icon": "UI_Gcg_Cardtable_Md",
+      "filename_bg": "UI_Gcg_Bg_Mengde"
+    },
+    "liyue": {
+      "filename_icon": "UI_Gcg_Cardtable_Ly",
+      "filename_bg": "UI_Gcg_Bg_Liyue"
+    },
+    "inazuma": {
+      "filename_icon": "UI_Gcg_Cardtable_Dq",
+      "filename_bg": "UI_Gcg_Bg_Inazuma"
+    },
+    "sumeru": {
+      "filename_icon": "UI_Gcg_Cardtable_Xm",
+      "filename_bg": "UI_Gcg_Bg_Sumeru"
+    }
+  },
+  "tcgsummons": {
+    "burningflame": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Grass"
+      ],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Fire",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Ranshaolieyan",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Ranshaolieyan_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Ranshaolieyan_HD"
+    },
+    "sacredcryopearl": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Ice",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_IceBall",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_IceBall_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_IceBall_HD"
+    },
+    "drunkenmist": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Ice",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Diona",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Diona_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Diona_HD"
+    },
+    "frostflakesekinoto": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Ice",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_KamisatoRyu",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_KamisatoRyu_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_KamisatoRyu_HD"
+    },
+    "melodyloop": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Heal",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_ShiningMiracle",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_ShiningMiracle_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_ShiningMiracle_HD"
+    },
+    "reflection": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Water",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Mona",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Mona_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Mona_HD"
+    },
+    "guoba": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Fire",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Guoba",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Guoba_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Guoba_HD"
+    },
+    "oz": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Electric",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Crow",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Crow_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Crow_HD"
+    },
+    "oz-01": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Electric",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Crow",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Crow_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Crow_HD"
+    },
+    "largewindspirit": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Wind",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_LargeWindSpirit",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_LargeWindSpirit_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_LargeWindSpirit_HD"
+    },
+    "largewindspirit-01": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Wind",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_LargeWindSpirit",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_LargeWindSpirit_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_LargeWindSpirit_HD"
+    },
+    "dandelionfield": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Wind",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_DandelionBreeze",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_DandelionBreeze_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_DandelionBreeze_HD"
+    },
+    "cuileinanbar": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Grass",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Collei",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Collei_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Collei_HD"
+    },
+    "oceanicmimicferret": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Water",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Ferret",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Ferret_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Ferret_HD"
+    },
+    "oceanicmimicraptor": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Water",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Raptor",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Raptor_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Raptor_HD"
+    },
+    "oceanicmimicfrog": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Water",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Frog",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Frog_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Frog_HD"
+    },
+    "shadowswordlonegale": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Wind",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Jifengcanying",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Jifengcanying_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Jifengcanying_HD"
+    },
+    "shadowswordgallopingfrost": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Ice",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Bingshuangcanying",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Bingshuangcanying_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Bingshuangcanying_HD"
+    },
+    "healingrain": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Heal",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Rain",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Rain_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Rain_HD"
+    },
+    "whirlwind": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Wind",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Wind",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Wind_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Wind_HD"
+    },
+    "cryohilichurlshooter": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Ice",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_HiliIce",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_HiliIce_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_HiliIce_HD"
+    },
+    "hydrosamachurl": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Water",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_ShamanWater",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_ShamanWater_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_ShamanWater_HD"
+    },
+    "hilichurlberserker": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Fire",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_HiliClub",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_HiliClub_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_HiliClub_HD"
+    },
+    "electrohilichurlshooter": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Electric",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_HiliElectric",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_HiliElectric_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_HiliElectric_HD"
+    },
+    "lightfallsword": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Eula",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Eula_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Eula_HD"
+    },
+    "bakekurage": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Water",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Kokomi",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Kokomi_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Kokomi_HD"
+    },
+    "tengujuuraiambush": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Electric",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_SaraA",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_SaraA_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_SaraA_HD"
+    },
+    "tengujuuraistormcluster": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Electric",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_SaraB",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_SaraB_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_SaraB_HD"
+    },
+    "gardenofpurity": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Water",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Ayato",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Ayato_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Ayato_HD"
+    },
+    "ushi": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Rock",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Itto",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Itto_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Itto_HD"
+    },
+    "clusterbloomarrow": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Grass",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Tighnari",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Tighnari_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Tighnari_HD"
+    },
+    "oceanicmimicsquirrel": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Water",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Ferret",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Ferret_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Ferret_HD"
+    },
+    "talismanspirit": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Ice",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Shenhe",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Shenhe_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Shenhe_HD"
+    },
+    "baronbunny": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Fire",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Dummy",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Dummy_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Dummy_HD"
+    },
+    "eyeofstormyjudgment": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Electric",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Shougun",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Shougun_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Shougun_HD"
+    },
+    "sesshousakura": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Electric",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Yae",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Yae_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Yae_HD"
+    },
+    "stormeye": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Wind",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Venti",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Venti_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Venti_HD"
+    },
+    "stonestele": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Rock",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Zhongli",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Zhongli_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Zhongli_HD"
+    },
+    "cryocicins": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Ice",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_MageIce",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_MageIce_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_MageIce_HD"
+    },
+    "darkfirefurnace": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Fire",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_DeaconFire",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_DeaconFire_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_DeaconFire_HD"
+    },
+    "chainsofwardingthunder": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Electric",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Effigyelectric",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Effigyelectric_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Effigyelectric_HD"
+    },
+    "tangleboltring": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Electric",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_AbyssEle",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_AbyssEle_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_AbyssEle_HD"
+    }
+  }
+}

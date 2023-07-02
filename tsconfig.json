@@ -1,0 +1,14 @@
+{
+  "include": [
+    "docs/.vuepress/components/**/*.ts",
+    "docs/.vuepress/components/**/*.vue"
+  ],
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ES2022",
+    "moduleResolution": "Bundler",
+    "types": [
+      "@vuepress/client/types"
+    ]
+  }
+}
