@@ -20,6 +20,7 @@ export const sidebar: SidebarConfig = [
     children: [
       "/notes/generic",
       "/notes/errata",
+      "/notes/visibility",
     ]
   }
 ];
