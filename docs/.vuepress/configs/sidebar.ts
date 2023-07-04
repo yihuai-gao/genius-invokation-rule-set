@@ -14,4 +14,12 @@ export const sidebar: SidebarConfig = [
       "/rule-set/special-entry.md",
     ],
   },
+  {
+    text: "笔记（仅供参考）",
+    link: "/notes/",
+    children: [
+      "/notes/generic",
+      "/notes/errata",
+    ]
+  }
 ];
