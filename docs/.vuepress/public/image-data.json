@@ -8,7 +8,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Ganyu",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Ganyu_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ganyu_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ganyu_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Ganyu"
     },
     "diona": {
       "filename_tagsicon": [
@@ -18,7 +19,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Diona",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Diona_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Diona_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Diona_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Diona"
     },
     "kaeya": {
       "filename_tagsicon": [
@@ -28,7 +30,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Kaeya",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Kaeya_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Kaeya_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Kaeya_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Kaeya"
     },
     "chongyun": {
       "filename_tagsicon": [
@@ -38,7 +41,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Chongyun",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Chongyun_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Chongyun_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Chongyun_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Chongyun"
     },
     "kamisatoayaka": {
       "filename_tagsicon": [
@@ -48,7 +52,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Ayaka",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Ayaka_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ayaka_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ayaka_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Ayaka"
     },
     "barbara": {
       "filename_tagsicon": [
@@ -58,7 +63,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Barbara",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Barbara_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Barbara_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Barbara_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Barbara"
     },
     "xingqiu": {
       "filename_tagsicon": [
@@ -68,7 +74,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Xingqiu",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Xingqiu_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Xingqiu_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Xingqiu_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Xingqiu"
     },
     "mona": {
       "filename_tagsicon": [
@@ -78,7 +85,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Mona",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Mona_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Mona_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Mona_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Mona"
     },
     "diluc": {
       "filename_tagsicon": [
@@ -88,7 +96,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Diluc",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Diluc_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Diluc_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Diluc_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Diluc"
     },
     "xiangling": {
       "filename_tagsicon": [
@@ -98,7 +107,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Xiangling",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Xiangling_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Xiangling_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Xiangling_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Xiangling"
     },
     "bennett": {
       "filename_tagsicon": [
@@ -108,7 +118,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Bennett",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Bennett_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Bennett_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Bennett_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Bennett"
     },
     "yoimiya": {
       "filename_tagsicon": [
@@ -118,7 +129,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Yoimiya",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Yoimiya_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Yoimiya_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Yoimiya_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Yoimiya"
     },
     "fischl": {
       "filename_tagsicon": [
@@ -128,7 +140,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Fischl",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Fischl_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Fischl_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Fischl_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Fischl"
     },
     "razor": {
       "filename_tagsicon": [
@@ -138,7 +151,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Razor",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Razor_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Razor_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Razor_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Razor"
     },
     "keqing": {
       "filename_tagsicon": [
@@ -148,7 +162,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Keqing",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Keqing_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Keqing_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Keqing_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Keqing"
     },
     "cyno": {
       "filename_tagsicon": [
@@ -158,7 +173,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Cyno",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Cyno_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Cyno_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Cyno_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Cyno"
     },
     "sucrose": {
       "filename_tagsicon": [
@@ -168,7 +184,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Sucrose",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Sucrose_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Sucrose_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Sucrose_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Sucrose"
     },
     "jean": {
       "filename_tagsicon": [
@@ -178,7 +195,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Qin",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Qin_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Qin_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Qin_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Qin"
     },
     "ningguang": {
       "filename_tagsicon": [
@@ -188,7 +206,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Ningguang",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Ningguang_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ningguang_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ningguang_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Ningguang"
     },
     "noelle": {
       "filename_tagsicon": [
@@ -198,7 +217,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Noel",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Noel_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Noel_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Noel_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Noel"
     },
     "collei": {
       "filename_tagsicon": [
@@ -208,7 +228,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Collei",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Collei_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Collei_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Collei_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Collei"
     },
     "rhodeiaofloch": {
       "filename_tagsicon": [
@@ -218,7 +239,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Oceanid",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Oceanid_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Oceanid_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Oceanid_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Oceanid"
     },
     "mirrormaiden": {
       "filename_tagsicon": [
@@ -228,7 +250,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Maidenwater",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Maidenwater_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Maidenwater_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Maidenwater_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Maidenwater"
     },
     "fatuipyroagent": {
       "filename_tagsicon": [
@@ -238,7 +261,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Fatuus",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Fatuus_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Fatuus_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Fatuus_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Fatuus"
     },
     "maguukenki": {
       "filename_tagsicon": [
@@ -248,7 +272,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Ningyo",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Ningyo_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Ningyo_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Ningyo_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Ningyo"
     },
     "stonehidelawachurl": {
       "filename_tagsicon": [
@@ -259,7 +284,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Bruterock",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Bruterock_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Bruterock_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Bruterock_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Bruterock"
     },
     "jadeplumeterrorshroom": {
       "filename_tagsicon": [
@@ -269,7 +295,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Fungusgrass",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Fungusgrass"
     },
     "klee": {
       "filename_tagsicon": [
@@ -279,7 +306,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Klee",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Klee_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Klee_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Klee_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Klee"
     },
     "beidou": {
       "filename_tagsicon": [
@@ -289,7 +317,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Beidou",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Beidou_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Beidou_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Beidou_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Beidou"
     },
     "eula": {
       "filename_tagsicon": [
@@ -299,7 +328,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Eula",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Eula_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Eula_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Eula_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Eula"
     },
     "sangonomiyakokomi": {
       "filename_tagsicon": [
@@ -309,7 +339,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Kokomi",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Kokomi_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Kokomi_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Kokomi_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Kokomi"
     },
     "kujousara": {
       "filename_tagsicon": [
@@ -319,7 +350,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Sara",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Sara_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Sara_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Sara_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Sara"
     },
     "kamisatoayato": {
       "filename_tagsicon": [
@@ -329,7 +361,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Ayato",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Ayato_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ayato_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ayato_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Ayato"
     },
     "aratakiitto": {
       "filename_tagsicon": [
@@ -339,7 +372,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Itto",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Itto_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Itto_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Itto_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Itto"
     },
     "tighnari": {
       "filename_tagsicon": [
@@ -349,7 +383,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Tighnari",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Tighnari_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Tighnari_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Tighnari_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Tighnari"
     },
     "shenhe": {
       "filename_tagsicon": [
@@ -359,7 +394,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Shenhe",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Shenhe_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Shenhe_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Shenhe_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Shenhe"
     },
     "tartaglia": {
       "filename_tagsicon": [
@@ -369,7 +405,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Tartaglia",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Tartaglia_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Tartaglia_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Tartaglia_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Tartaglia"
     },
     "amber": {
       "filename_tagsicon": [
@@ -379,7 +416,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Ambor",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Ambor_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ambor_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Ambor_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Ambor"
     },
     "hutao": {
       "filename_tagsicon": [
@@ -389,7 +427,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Hutao",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Hutao_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Hutao_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Hutao_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Hutao"
     },
     "raidenshogun": {
       "filename_tagsicon": [
@@ -399,7 +438,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Shougun",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Shougun_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Shougun_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Shougun_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Shougun"
     },
     "yaemiko": {
       "filename_tagsicon": [
@@ -409,7 +449,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Yae",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Yae_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Yae_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Yae_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Yae"
     },
     "venti": {
       "filename_tagsicon": [
@@ -419,7 +460,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Venti",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Venti_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Venti_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Venti_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Venti"
     },
     "xiao": {
       "filename_tagsicon": [
@@ -429,7 +471,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Xiao",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Xiao_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Xiao_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Xiao_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Xiao"
     },
     "zhongli": {
       "filename_tagsicon": [
@@ -439,7 +482,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Zhongli",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Zhongli_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Zhongli_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Zhongli_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Zhongli"
     },
     "nahida": {
       "filename_tagsicon": [
@@ -449,7 +493,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Nahida",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Nahida_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Nahida_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Nahida_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Nahida"
     },
     "fatuicryocicinmage": {
       "filename_tagsicon": [
@@ -459,7 +504,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Monster_FatuusMageice",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_FatuusMageice_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_FatuusMageice_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_FatuusMageice_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_FatuusMageice"
     },
     "abysslectorfathomlessflames": {
       "filename_tagsicon": [
@@ -469,7 +515,8 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Monster_DeaconFire",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_DeaconFire_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_DeaconFire_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_DeaconFire_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_DeaconFire"
     },
     "electrohypostasis": {
       "filename_tagsicon": [
@@ -479,7 +526,729 @@
       ],
       "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Effigyelectric",
       "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Effigyelectric_Golden",
-      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Effigyelectric_HD"
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Effigyelectric_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Effigyelectric"
+    },
+    "candace": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_Polearm",
+        "UI_Gcg_Tag_Faction_Sumeru"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Candace",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Candace_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Candace_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Candace"
+    },
+    "yanfei": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_Catalyst",
+        "UI_Gcg_Tag_Faction_Liyue"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Feiyan",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Feiyan_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Feiyan_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Feiyan"
+    },
+    "kaedeharakazuha": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Wind",
+        "UI_Gcg_Tag_Weapon_Sword",
+        "UI_Gcg_Tag_Faction_Inazuma"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Avatar_Kazuha",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Avatar_Kazuha_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Avatar_Kazuha_HD",
+      "filename_icon": "UI_Gcg_Char_AvatarIcon_Kazuha"
+    }
+  },
+  "tcgenemycards": {
+    "hilichurlfighter": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_None",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_Hili",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_Hili_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_Hili_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_Hili"
+    },
+    "hilichurlshooter": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_None",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_HiliRange",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_HiliRange_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_HiliRange_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_HiliRange"
+    },
+    "nobushijintouban": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_None",
+        "UI_Gcg_Tag_Weapon_None"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_RoninWater",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_RoninWater_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_RoninWater_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_RoninWater"
+    },
+    "iceshieldwallmitachurl": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_BruteIceShield",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_BruteIceShield_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_BruteIceShield_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_BruteIceShield"
+    },
+    "cryohilichurlshooter": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_HiliIce",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_HiliIce_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_HiliIce_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_HiliIce"
+    },
+    "cryoabyssmage": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_AbyssIce",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_AbyssIce_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_AbyssIce_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_AbyssIce"
+    },
+    "fatuiskirmishercryogunnerlegionnaire": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatice",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatice_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatice_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_Skirnisherfatice"
+    },
+    "wingedcryoshroom": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_UnDeltaIce",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_UnDeltaIce_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_UnDeltaIce_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_UnDeltaIce"
+    },
+    "hydroabyssmage": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_AbyssWater",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_AbyssWater_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_AbyssWater_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_AbyssWater"
+    },
+    "hydrosamachurl": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_ShamanWater",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_ShamanWater_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_ShamanWater_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_ShamanWater"
+    },
+    "fatuiskirmisherhydrogunnerlegionnaire": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatwater",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatwater_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatwater_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_Skirnisherfatwater"
+    },
+    "hydroslime": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_SlimeWater",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_SlimeWater_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_SlimeWater_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_SlimeWater"
+    },
+    "groundedhydroshroom": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_UnDeltaWater",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_UnDeltaWater_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_UnDeltaWater_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_UnDeltaWater"
+    },
+    "pyroabyssmage": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_AbyssFire",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_AbyssFire_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_AbyssFire_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_AbyssFire"
+    },
+    "blazingaxemitachurl": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_BruteAxe",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_BruteAxe_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_BruteAxe_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_BruteAxe"
+    },
+    "kairagifierymight": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Kairagi"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_KairagiFire",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_KairagiFire_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_KairagiFire_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_KairagiFire"
+    },
+    "hilichurlberserker": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_HiliClub",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_HiliClub_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_HiliClub_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_HiliClub"
+    },
+    "nobushihitsukeban": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_RoninFire",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_RoninFire_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_RoninFire_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_RoninFire"
+    },
+    "fatuiskirmisherpyroslingerbracer": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatfire",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatfire_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatfire_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_Skirnisherfatfire"
+    },
+    "kairagidancingthunder": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Kairagi"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_KairagiEle",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_KairagiEle_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_KairagiEle_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_KairagiEle"
+    },
+    "electrohilichurlshooter": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_HiliElectric",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_HiliElectric_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_HiliElectric_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_HiliElectric"
+    },
+    "cracklingaxemitachurl": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_BruteEleAxe",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_BruteEleAxe_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_BruteEleAxe_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_BruteEleAxe"
+    },
+    "electroabyssmage": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_AbyssEle",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_AbyssEle_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_AbyssEle_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_AbyssEle"
+    },
+    "nobushikikouban": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_None"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_RoninEle",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_RoninEle_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_RoninEle_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_RoninEle"
+    },
+    "electroslime": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_SlimeEle",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_SlimeEle_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_SlimeEle_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_SlimeEle"
+    },
+    "fatuiskirmisherelectrohammervanguard": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_Skirnisherstrongele",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_Skirnisherstrongele_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_Skirnisherstrongele_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_Skirnisherstrongele"
+    },
+    "anemosamachurl": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Wind",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_ShamanWind",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_ShamanWind_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_ShamanWind_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_ShamanWind"
+    },
+    "fatuiskirmisheranemoboxervanguard": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Wind",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_Skirnisherstrongwind",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_Skirnisherstrongwind_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_Skirnisherstrongwind_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_Skirnisherstrongwind"
+    },
+    "rockshieldwallmitachurl": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_BruteRockShield",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_BruteRockShield_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_BruteRockShield_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_BruteRockShield"
+    },
+    "rockfondrifthound": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_Rockdog",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_Rockdog_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_Rockdog_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_Rockdog"
+    },
+    "geosamachurl": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_ShamanRock",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_ShamanRock_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_ShamanRock_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_ShamanRock"
+    },
+    "fatuiskirmishergeochanterbracer": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatrock",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatrock_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatrock_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_Skirnisherfatrock"
+    },
+    "groundedgeoshroom": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_UnDeltaRock",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_UnDeltaRock_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_UnDeltaRock_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_UnDeltaRock"
+    },
+    "wingeddendroshroom": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Grass",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_UnDeltaGrass",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_UnDeltaGrass_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_UnDeltaGrass_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_UnDeltaGrass"
+    },
+    "woodenshieldwallmitachurl": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Grass",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_BruteShield",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_BruteShield_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_BruteShield_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_BruteShield"
+    },
+    "dendrosamachurl": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Grass",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_ShamanGrass",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_ShamanGrass_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_ShamanGrass_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_ShamanGrass"
+    },
+    "fatuicryocicinmage": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_FatuusMageice",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_FatuusMageice_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_FatuusMageice_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_FatuusMageice"
+    },
+    "fatuicryocicinmage-01": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Ice",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_FatuusMageice",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_FatuusMageice_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_FatuusMageice_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_FatuusMageice"
+    },
+    "rhodeiaofloch": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Oceanid",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Oceanid_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Oceanid_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Oceanid"
+    },
+    "rhodeiaofloch-01": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Oceanid",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Oceanid_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Oceanid_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Oceanid"
+    },
+    "mirrormaiden": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Maidenwater",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Maidenwater_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Maidenwater_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Maidenwater"
+    },
+    "mirrormaiden-01": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Maidenwater",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Maidenwater_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Maidenwater_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Maidenwater"
+    },
+    "fatuipyroagent": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Fatuus",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Fatuus_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Fatuus_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Fatuus"
+    },
+    "fatuipyroagent-01": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Fatui"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Fatuus",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Fatuus_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Fatuus_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Fatuus"
+    },
+    "abysslectorfathomlessflames": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_DeaconFire",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_DeaconFire_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_DeaconFire_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_DeaconFire"
+    },
+    "electrohypostasis": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Effigyelectric",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Effigyelectric_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Effigyelectric_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Effigyelectric"
+    },
+    "electrohypostasis-01": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Effigyelectric",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Effigyelectric_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Effigyelectric_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Effigyelectric"
+    },
+    "pureelectrohypostasis": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Electric",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Effigyelectric",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Effigyelectric_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Effigyelectric_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Effigyelectric"
+    },
+    "maguukenki": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Wind",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Ningyo",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Ningyo_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Ningyo_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Ningyo"
+    },
+    "maguukenki-01": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Wind",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Ningyo",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Ningyo_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Ningyo_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Ningyo"
+    },
+    "stonehidelawachurl": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Bruterock",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Bruterock_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Bruterock_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Bruterock"
+    },
+    "stonehidelawachurl-01": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Bruterock",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Bruterock_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Bruterock_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Bruterock"
+    },
+    "stonehidelawachurl-02": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Bruterock",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Bruterock_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Bruterock_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Bruterock"
+    },
+    "stonehidelawachurl-03": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Rock",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster",
+        "UI_Gcg_Tag_Faction_Hili"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Bruterock",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Bruterock_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Bruterock_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Bruterock"
+    },
+    "jadeplumeterrorshroom": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Grass",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Fungusgrass",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Fungusgrass"
+    },
+    "jadeplumeterrorshroom-01": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Grass",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Fungusgrass",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Fungusgrass"
+    },
+    "jadeplumeterrorshroom-02": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Grass",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Fungusgrass",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Fungusgrass"
+    },
+    "jadeplumeterrorshroom-03": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Grass",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_Fungusgrass",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_Fungusgrass_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_Fungusgrass"
+    },
+    "hydroabyssmage-01": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Water",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_AbyssWater",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_AbyssWater_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_AbyssWater_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_AbyssWater"
+    },
+    "pyroabyssmage-01": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Enemy_AbyssFire",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Enemy_AbyssFire_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Enemy_AbyssFire_HD",
+      "filename_icon": "UI_Gcg_Char_EnemyIcon_AbyssFire"
+    },
+    "abysslectorfathomlessflames-01": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Element_Fire",
+        "UI_Gcg_Tag_Weapon_None",
+        "UI_Gcg_Tag_Faction_Monster"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Char_Monster_DeaconFire",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Char_Monster_DeaconFire_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Char_Monster_DeaconFire_HD",
+      "filename_icon": "UI_Gcg_Char_MonsterIcon_DeaconFire"
     }
   },
   "tcgactioncards": {
@@ -2270,6 +3039,114 @@
       "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
       "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
       "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "theoverflow": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Candace",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Candace_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Candace_HD"
+    },
+    "rightoffinalinterpretation": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Constellation_Feiyan",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Constellation_Feiyan_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Constellation_Feiyan_HD"
+    },
+    "poeticsoffuubutsu": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Talent",
+        "UI_Gcg_Tag_Card_CombatAction"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Talent_Kazuha",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Talent_Kazuha_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Talent_Kazuha_HD"
+    },
+    "fruitoffulfillment": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Weapon",
+        "UI_Gcg_Tag_Weapon_Catalyst"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Modify_Weapon_Arakalari",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Modify_Weapon_Arakalari_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Modify_Weapon_Arakalari_HD"
+    },
+    "masterzhang": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Ally"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_NPC_Laozhang",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_NPC_Laozhang_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_NPC_Laozhang_HD"
+    },
+    "ancientcourtyard": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Legend"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Jiangjun",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Jiangjun_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Jiangjun_HD"
+    },
+    "covenantofrock": {
+      "filename_tagsicon": [
+        "UI_Gcg_Tag_Card_Legend"
+      ],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Chuanglong",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Chuanglong_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Chuanglong_HD"
+    },
+    "rhythmofthegreatdream": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Event_Event_Dameng",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Event_Event_Dameng_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Event_Event_Dameng_HD"
+    },
+    "masterytalismanvictoriousrepute": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismanplanninglongterm": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismanarmsandarmorhoned": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismanbattleready": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismancascadingdefeat": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismanchaoticbanners": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
+    },
+    "masterytalismansuddenambush": {
+      "filename_tagsicon": [],
+      "filename_cardface": "UI_Gcg_CardFace_Assist_Location_Juelubingji",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Assist_Location_Juelubingji_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Assist_Location_Juelubingji_HD"
     }
   },
   "tcgcardbacks": {
@@ -2667,6 +3544,13 @@
       "filename_cardface": "UI_Gcg_CardFace_Summon_AbyssEle",
       "filename_cardface_golden": "UI_Gcg_CardFace_Summon_AbyssEle_Golden",
       "filename_cardface_HD": "UI_Gcg_CardFace_Summon_AbyssEle_HD"
+    },
+    "autumnwhirlwind": {
+      "filename_tagsicon": [],
+      "filename_hinticon": "UI_Gcg_Buff_Common_Element_Wind",
+      "filename_cardface": "UI_Gcg_CardFace_Summon_Kazuha",
+      "filename_cardface_golden": "UI_Gcg_CardFace_Summon_Kazuha_Golden",
+      "filename_cardface_HD": "UI_Gcg_CardFace_Summon_Kazuha_HD"
     }
   }
 }
