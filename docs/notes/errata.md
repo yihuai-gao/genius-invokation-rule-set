@@ -17,6 +17,8 @@
 - 召唤物「剑影·爽驰」描述：
   - 结束阶段：造成1点冰元素伤害。可用次数：2
   - 使用技能「机巧伪天狗抄」时：造成1点冰元素伤害。（不消耗可用次数）
+  
+<iframe src="//player.bilibili.com/player.html?aid=998258570&bvid=BV1Zx4y1d7f6&cid=1194840950&page=10" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="480" height="360"> </iframe>
 
 ## 「达达利亚」角色状态「近战状态」与「远程状态」
 
@@ -37,6 +39,8 @@
   - 可在此处或被动技能「遏浪」描述内增设：入场时，移除「远程状态」。
 - 「远程状态」描述：空。
 - 「达达利亚」普通攻击「断雨」增加描述：此次「普通攻击」为重击时，目标角色附属断流。
+
+<iframe src="//player.bilibili.com/player.html?aid=998258570&bvid=BV1Zx4y1d7f6&cid=1194839251&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="480" height="360"> </iframe>
 
 ## 支援牌「常九爷」与「参量质变仪」
 
@@ -74,3 +78,5 @@ E.g. 「冰翎」会对扩散造成的冰元素伤害加伤，但「风物之诗
 E.g. 砂糖装备「混元熵增论」后生成的，且被“染色”的「大型风灵」，会对造成“被染元素”伤害的技能加伤、「琉金火光」等出战状态加伤，但不会为己方或对方场上的任何「轰轰火花」加伤。
 
 若技能造成伤害，则先响应 **「受到伤害后」** 的状态等，再响应 **「使用技能后」** 和 **「造成伤害后」**（同时；后者目前仅有坚定之岩）的状态等。
+
+<iframe src="//player.bilibili.com/player.html?aid=998258570&bvid=BV1Zx4y1d7f6&cid=1194840973&page=11" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="480" height="360"> </iframe>
