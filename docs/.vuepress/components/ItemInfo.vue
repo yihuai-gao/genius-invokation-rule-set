@@ -1,6 +1,7 @@
 <script lang="ts" setup>
 import Description from "./Description.vue";
 import { toDiceTypeClass } from "./utils";
+import { imageData } from "./data";
 
 const props = defineProps<{
   data: any;
@@ -10,9 +11,9 @@ const props = defineProps<{
 
 <template>
   <div class="info-box">
-    <div v-if="!noImage && data.image" class="info-box-image">
+    <div v-if="!noImage && data.id in imageData" class="info-box-image">
       <img
-        :src="`https://api.ambr.top/assets/UI/gcg/${data.image.filename_cardface}.png`"
+        :src="imageData[data.id]"
       />
     </div>
     <div class="info-box-content">
