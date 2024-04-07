@@ -2,7 +2,7 @@ import type { SidebarConfig } from "@vuepress/theme-default";
 
 export const sidebar: SidebarConfig = [
   {
-    text: "七圣召唤规则集",
+    text: "官方规则书",
     link: '/rule-set/',
     children: [
       "/rule-set/introduction.md",
@@ -14,13 +14,14 @@ export const sidebar: SidebarConfig = [
       "/rule-set/special-entry.md",
     ],
   },
-  {
-    text: "笔记（仅供参考）",
-    link: "/notes/",
-    children: [
-      "/notes/generic",
-      "/notes/errata",
-      "/notes/visibility",
-    ]
-  }
+  "/new"
+  // {
+  //   text: "笔记（仅供参考）",
+  //   link: "/notes/",
+  //   children: [
+  //     "/notes/generic",
+  //     "/notes/errata",
+  //     "/notes/visibility",
+  //   ]
+  // }
 ];

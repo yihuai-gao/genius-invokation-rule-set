@@ -11,11 +11,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@neilsustc/markdown-it-katex": "^1.0.0",
     "@vuepress/cli": "2.0.0-beta.63",
     "@vuepress/client": "2.0.0-beta.63",
     "@vuepress/plugin-register-components": "2.0.0-beta.63",
     "@vuepress/theme-default": "2.0.0-beta.63",
     "@vuepress/utils": "2.0.0-beta.63",
+    "katex": "^0.16.10",
     "vue": "^3.3.4",
     "vuepress": "2.0.0-beta.63"
   },
