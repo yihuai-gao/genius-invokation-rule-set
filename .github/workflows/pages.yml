@@ -14,13 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: pnpm/action-setup@v2
-      - uses: actions/setup-node@v3
-        with:
-          node-version: "18"
-          cache: "pnpm"
-      - run: pnpm install --frozen-lockfile
-      - run: pnpm docs:build
+      - uses: oven-sh/setup-bun@v1
+      - run: bun install
+      - run: bun docs:build
       - uses: actions/upload-pages-artifact@v1
         with:
           path: "./docs/.vuepress/dist"
